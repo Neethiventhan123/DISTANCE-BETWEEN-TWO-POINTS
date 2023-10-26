@@ -13,6 +13,7 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 # Program to find the distance between two points.
 # Developed by:Neethiventhan.n 
 # RegisterNumber:23006643
+~~~
 import math 
 x1=4
 x2=10
