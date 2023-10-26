@@ -22,7 +22,7 @@ y2=6
 distance=math.sqrt((x2-x1)**2+(y2-y1)**2)
 print(round(distance,2))  
 
-
+~~~
 ### OUTPUT:
 ![image](https://github.com/Neethiventhan123/DISTANCE-BETWEEN-TWO-POINTS/assets/148514848/b740c423-12e1-4187-98aa-6f98b1b50439)
 
